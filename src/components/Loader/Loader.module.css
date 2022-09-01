@@ -1,0 +1,13 @@
+.section {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   background: rgb(175, 173, 177);
+}
+
+.loader {
+   position: relative;
+   width: 120px;
+   height: 120px;
+}
